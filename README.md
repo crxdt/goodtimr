@@ -19,7 +19,4 @@
 
 ## Installation
 
-No installation required! Simply open the HTML file or the webpage in any modern web browser.
-
-
-
+No installation required! Simply open the HTML file or the [webpage](https://crxdt.github.io/goodtimr) in any modern web browser.
